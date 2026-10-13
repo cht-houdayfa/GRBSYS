@@ -1,0 +1,7 @@
+# Local backups and one-off migration scripts (not part of the site)
+index.backup.html
+grbsys.html
+_build/*
+!_build/template.html
+!_build/i18n.json
+!_build/build.mjs
